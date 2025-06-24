@@ -4,3 +4,4 @@ def myfunc():
     print(globals())
     print(locals())
     
+print('hey')
