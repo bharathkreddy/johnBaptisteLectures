@@ -9,6 +9,7 @@ dependencies = [
     "mplfinance>=0.12.10b0",
     "numpy>=2.3.0",
     "pandas>=2.3.0",
+    "pytest>=8.4.1",
     "pytz>=2025.2",
     "scipy>=1.15.3",
 ]
